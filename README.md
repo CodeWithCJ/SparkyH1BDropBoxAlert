@@ -35,3 +35,9 @@ Before you can run this script, you will need:
 To install the required Python libraries, run the following command:
 ```bash
 pip install -r requirements.txt
+```
+
+## How to Run
+```bash
+python SparkyH1BDropBoxAlert.py
+```
