@@ -19,8 +19,8 @@ Before you can run this script, you will need:
   https://www.amazon.com/Thomptronics-Notify-Me/dp/B07BB2FYFS
   [https://voicemonkey.io/start](https://www.amazon.com/TopVoiceApps-com-Voice-Monkey/dp/B08C6Z4C3R)
 -  IFFT configuration
-  -    Create an account in IFFT, install its mobile app.
-  -    Create an Applet in web version with EMAIL. Whenever you receive email to IFFT from your registered email, setup push notication. Make sure to use the same SMTP email used in previous step in here as well. Otherwise push notication will not work. 
+    - Create an account in IFFT, install its mobile app.
+    - Create an Applet in web version with EMAIL. Whenever you receive email to IFFT from your registered email, setup push notication. Make sure to use the same SMTP email used in previous step in here as well. Otherwise push notication will not work. 
    ![image](https://github.com/CodeWithCJ/SparkyH1BDropBoxAlert/assets/151883488/549a3fb6-23eb-4bdd-a299-eb6dd773dd84)
 
 
@@ -28,8 +28,13 @@ Before you can run this script, you will need:
 ## Configuration
 1. **Telegram API**: Sign up for Telegram API access and obtain your `api_id` and `api_hash`. Replace `your_telegram_app_id` and `your_telegram_app_hash` in the `config.ini` with your actual Telegram API credentials.
 2. **SMTP Settings**: Replace `youremail@gmail.com` and `your_smtp_password` in the `config.ini` with your actual email and password that will be used to send notifications.
-3. **Alexa Notify Me**: Set up Alexa Notify Me and obtain your access code. Replace `your_Alexa_notifify_me_access_code` in the `config.ini` with your actual Notify Me access code.
-4. **Alexa Voice Monkey**: Set up Voice Monkey for your Alexa device and obtain the URL. Replace `your_Alex_Voice_Monekey_URL` in the `config.ini` with your actual Voice Monkey URL.
+3. Configure IFFT Applet with same email ID to receive push notication
+4. **Alexa Notify Me**: Set up Alexa Notify Me and obtain your access code. Replace `your_Alexa_notifify_me_access_code` in the `config.ini` with your actual Notify Me access code.
+5. **Alexa Voice Monkey**: Set up Voice Monkey for your Alexa device and obtain the URL. Replace `your_Alex_Voice_Monekey_URL` in the `config.ini` with your actual Voice Monkey URL.
+
+```
+Step 3 to 5 are optional. But highly recommend configuring at least one otherwise, high chance you will the alert.
+```
 
 ## Installation
 To install the required Python libraries, run the following command:
