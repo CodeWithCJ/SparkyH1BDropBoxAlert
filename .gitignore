@@ -1,0 +1,14 @@
+# Ignore configuration files
+config.ini
+
+# Ignore all files in a specific directory
+secrets/
+
+# Ignore all .log files
+*.log
+
+# Ignore all .log files
+*.csv
+
+# Ignore a specific file
+todo.txt
