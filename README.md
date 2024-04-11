@@ -30,7 +30,7 @@ Before you can run this script, you will need:
 2. **SMTP Settings**: Replace `youremail@gmail.com` and `your_smtp_password` in the `config.ini` with your actual email and password that will be used to send notifications.
 3. Configure IFFT Applet with same email ID to receive push notication - Refer Wiki page for more detailed instruction. 
 4. **Alexa Notify Me**: Set up Alexa Notify Me and obtain your access code. Replace `your_Alexa_notifify_me_access_code` in the `config.ini` with your actual Notify Me access code.
-5. **Alexa Voice Monkey**: Set up Voice Monkey for your Alexa device and obtain the URL. Replace `your_Alex_Voice_Monekey_URL` in the `config.ini` with your actual Voice Monkey URL.
+5. **Alexa Voice Monkey**: Set up Voice Monkey for your Alexa device and obtain the URL. Replace `your_Alex_Voice_Monekey_URL` in the `config.ini` with your actual Voice Monkey URL. Refer WIKI page for detailed instruction 
 
 ```
 Step 3 to 5 are optional. But highly recommend configuring at least one otherwise, high chance you will the alert.
