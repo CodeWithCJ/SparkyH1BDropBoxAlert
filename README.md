@@ -5,10 +5,18 @@ SparkyH1BDropBoxAlert is a Python script designed to monitor specific Telegram c
 
 ## Prerequisites
 Before you can run this script, you will need:
-- Python 3.x installed on your system.
+- Python 3.x
+  - Download & install Python using https://www.python.org/downloads/
+    - Make sure to install these packages as well. 
+        telethon
+        pandas
+        pytz
+        requests
 - A Telegram account with API access.
+  https://core.telegram.org/api/obtaining_api_id#:~:text=Obtaining%20api_id&text=Sign%20up%20for%20Telegram%20using,parameters%20required%20for%20user%20authorization.
 - An SMTP server (Gmail used in this example) for sending emails.
 - An Alexa device with Notify Me and Voice Monkey skills for voice notifications.
+
 
 ## Configuration
 1. **Telegram API**: Sign up for Telegram API access and obtain your `api_id` and `api_hash`. Replace `your_telegram_app_id` and `your_telegram_app_hash` in the `config.ini` with your actual Telegram API credentials.
