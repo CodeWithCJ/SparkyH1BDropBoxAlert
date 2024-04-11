@@ -17,7 +17,7 @@ Before you can run this script, you will need:
 - An SMTP server (Gmail used in this example) for sending emails.
 - An Alexa device with Notify Me and Voice Monkey skills for voice notifications.
   https://www.amazon.com/Thomptronics-Notify-Me/dp/B07BB2FYFS
-  [https://voicemonkey.io/start](https://www.amazon.com/TopVoiceApps-com-Voice-Monkey/dp/B08C6Z4C3R)
+  https://www.amazon.com/TopVoiceApps-com-Voice-Monkey/dp/B08C6Z4C3R
 -  IFFT configuration
     - Create an account in IFFT, install its mobile app.
     - Create an Applet in web version with EMAIL. Whenever you receive email to IFFT from your registered email, setup push notication. Make sure to use the same SMTP email used in previous step in here as well. Otherwise push notication will not work. 
