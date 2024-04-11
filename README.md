@@ -19,6 +19,7 @@ Before you can run this script, you will need:
 - A Telegram account with API access.
   https://core.telegram.org/api/obtaining_api_id#:~:text=Obtaining%20api_id&text=Sign%20up%20for%20Telegram%20using,parameters%20required%20for%20user%20authorization.
 - An SMTP server (Gmail used in this example) for sending emails.
+  https://support.google.com/mail/answer/185833?hl=en
 - An Alexa device with Notify Me and Voice Monkey skills for voice notifications.
     -   https://www.amazon.com/Thomptronics-Notify-Me/dp/B07BB2FYFS
     -   https://www.amazon.com/TopVoiceApps-com-Voice-Monkey/dp/B08C6Z4C3R
