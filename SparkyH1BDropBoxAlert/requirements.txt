@@ -1,0 +1,4 @@
+pandas==2.2.1
+pytz==2024.1
+requests==2.31.0
+Telethon==1.34.0
