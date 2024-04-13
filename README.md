@@ -20,10 +20,10 @@ Before you can run this script, you will need:
   https://core.telegram.org/api/obtaining_api_id#:~:text=Obtaining%20api_id&text=Sign%20up%20for%20Telegram%20using,parameters%20required%20for%20user%20authorization.
 - An SMTP server (Gmail used in this example) for sending emails.
   https://support.google.com/mail/answer/185833?hl=en
-- An Alexa device with Notify Me and Voice Monkey skills for voice notifications.
+- Optional: An Alexa device with Notify Me and Voice Monkey skills for voice notifications.
     -   https://www.amazon.com/Thomptronics-Notify-Me/dp/B07BB2FYFS
     -   https://www.amazon.com/TopVoiceApps-com-Voice-Monkey/dp/B08C6Z4C3R
--  IFFT configuration
+- Optional: IFFT configuration
     - Create an account in IFFT, install its mobile app.
     - Create an Applet in web version with EMAIL. Whenever you receive email to IFFT from your registered email, setup push notication. Make sure to use the same SMTP email used in previous step in here as well. Otherwise push notication will not work. 
    ![image](https://github.com/CodeWithCJ/SparkyH1BDropBoxAlert/assets/151883488/549a3fb6-23eb-4bdd-a299-eb6dd773dd84)
