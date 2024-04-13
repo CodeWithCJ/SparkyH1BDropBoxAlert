@@ -7,6 +7,9 @@ SparkyH1BDropBoxAlert is a Python script designed to monitor specific Telegram c
 Frustration + ChatGpt + Python + free time + innovation = My tool to alert me --> Booked my slots in Jun on 10-Apr after running this script 24x7 for two weeks. Chat with ChatGPT if you are stuck anywhere or message me if you need any help with confiugration. 
 ```
 
+Read the instructions below and as well as FAQ & Detailed pages under WIKI section. 
+
+
 ## Prerequisites
 Before you can run this script, you will need:
 - Python 3.x
