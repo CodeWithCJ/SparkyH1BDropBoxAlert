@@ -4,7 +4,7 @@
 SparkyH1BDropBoxAlert is a Python script designed to monitor specific Telegram chats for messages containing available appointment slots for H1B and H4 visa processing, then alert users via email, push notification and Alexa notifications.
 
 ```
-Frustration + ChatGpt + Python + free time + innovation = My tool to alert me --> Booked my slots in Jun on 10-Apr after running this script 24x7 for two weeks. Chat with ChatGPT if you are stuck anywhere or message me if you need any help with confiugration. 
+Frustration + ChatGpt + Python + free time + innovation = My tool to alert me for the month I need
 ```
 
 Read the instructions below and as well as FAQ & Detailed pages under WIKI section. 
