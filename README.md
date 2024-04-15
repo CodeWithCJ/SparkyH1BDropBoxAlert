@@ -1,5 +1,9 @@
 # SparkyH1BDropBoxAlert
 
+## Disclaimer
+My script only reads Telegram group and alerts if matching word is found. I am not associated with the telegram group used in this script. I just read the messages shared in the telegram. Sometimes it could alert false alarm. So, have caution. 
+
+
 ## Overview
 SparkyH1BDropBoxAlert is a Python script designed to monitor specific Telegram chats for messages containing available appointment slots for H1B and H4 visa processing, then alert users via email, push notification and Alexa notifications.
 
