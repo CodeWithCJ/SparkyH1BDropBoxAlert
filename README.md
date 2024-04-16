@@ -1,7 +1,7 @@
 # SparkyH1BDropBoxAlert
 
 ## Disclaimer
-My script only reads Telegram group and alerts if matching word is found. I am not associated with the telegram group used in this script. I just read the messages shared in the telegram. Sometimes it could alert false alarm. So, have caution. 
+My script only reads Telegram group and alerts if matching word is found. I am not associated with the telegram group used in this script. This script just downloads the messages shared in the telegram and alerts for availability. Sometimes it could send false alarm. So, have caution. 
 
 
 ## Overview
